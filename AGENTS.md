@@ -26,8 +26,8 @@ Kein `llms.txt` / `llms-full.txt` im Repo.
 6. Verify-before-claim
 
 ## Skills
-- `livekit-agents` — bauen, Handoffs, Latenz, Tests
-- `livekit-simulations` — Szenarien, `lk agent simulate`
+- `livekit-agents` — nur hier: `skills/livekit-agents/SKILL.md`
+- `livekit-simulations` — nur hier: `skills/livekit-simulations/SKILL.md`
 - `hermes-mcp-http` — nur wenn Docs-MCP kaputt ist
 
 ## Approval
